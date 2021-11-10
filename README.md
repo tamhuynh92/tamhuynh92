@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tamhuynh92
-- 👀 I’m interested in data science, data engineering, bioinformatics and management
+- 👋 Hi, I’m Tam Huynh - A Biochemist who loves to code !
+- 👀 I’m love data science, data engineering, bioinformatics and management
 - 🌱 I’m currently learning Data Engineering and Project Management
 - 💞️ I’m looking to collaborate on Data Engineering
 - 📫 How to reach me huynht0511@gmail.com

@@ -2,7 +2,7 @@
 - 👀 I’m love data science, data engineering, bioinformatics and management
 - 🌱 I’m currently learning Data Engineering and Project Management
 - 💞️ I’m looking to collaborate on Data Engineering
-- 📫 How to reach me huynht0511@gmail.com
+- 📫 How to reach me linkedin.com/in/tamhuynhsd/
 
 <!---
 tamhuynh92/tamhuynh92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
